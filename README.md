@@ -8,7 +8,8 @@ Welcome to ConsciousOS, an innovative operating system at the intersection of ar
 4. Community-Driven Development: Open-source collaboration to evolve consciousness-centric computing.
 5. Explore the future of AI-driven operating systems with ConsciousOS, where technology meets mindfulness
    
-<img width="1019" alt="ConsciousOS" src="https://github.com/Simplify-AI/ConsciousOS/assets/155385205/68305a52-c3cf-4ffb-9eb2-1857b69ff479">
+<img width="1019" alt="ConsciousOS" src="https://github.com/user-attachments/assets/c15de549-b3b6-4e3f-95ad-5c518bcd81d3">
+
 
 
 **ConsciousOS Component-Level Description**
